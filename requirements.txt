@@ -1,0 +1,10 @@
+Dependencies
+Python 3.x
+pandas
+numpy
+matplotlib
+prophet
+neuralprophet
+tensorflow
+scikit-learn
+jupyter
